@@ -8,7 +8,7 @@ public class TestOrg {
 	public static void main(String[] args) {
 		
 	Scanner sc= new Scanner(System.in);	
-	System.out.println("enter maximum number of employees");
+	System.out.println("enter maximum no of employees");
 	int n=sc.nextInt();
 	Employee[] e= new Employee[n];
 	int count=0;
