@@ -18,7 +18,7 @@ public class Employee {
 
 	public double getBasic()
 	{
-		return basic;
+		return basic+1;
 		
 	}
 
