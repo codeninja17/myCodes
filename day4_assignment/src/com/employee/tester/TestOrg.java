@@ -21,7 +21,7 @@ public class TestOrg {
 						
 						System.out.println("enter id of employee");
 						String id=sc.nextLine();
-						System.out.println("enter name of employee");
+						System.out.println("enter name");
 						String name=sc.nextLine();
 						System.out.println("enter basic salary of employee");
 						double basic=sc.nextDouble();
